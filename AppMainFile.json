@@ -1,7 +1,7 @@
 {
   "data" :  {
       "msg" : "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL",
-      "AD_Priority_Google/URL" : "URL",
+      "AD_Priority_Google/URL" : "google",
     
       "Vpn_On_Off_Direct" : "off",  
       "ghe2" : "aft_vpn_test",
@@ -9,9 +9,9 @@
     
       "AppVersion_Update" : "1.1",  
     
-      "AdsOnOff" : "off",  
+      "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
-      "DialogBox_InterAds_OnOff" : "on",  
+      "DialogBox_InterAds_OnOff" : "off",  
       "BannerAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
@@ -34,13 +34,13 @@
       "email" : "venturescope69@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
-      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
-      "Video_Ad_Id": "ca-app-pub-3940256099942544/5354046379",
-      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
-      "NativeAd_Id1": "ca-app-pub-3940256099942544/2247696110",
-      "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
-      "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
+      "BannerAd_Id": "ca-app-pub-xyz3940256099942544/6300978111",
+      "InterAd_Id": "ca-app-pub-xyz3940256099942544/1033173712",
+      "Video_Ad_Id": "ca-app-pub-xyz3940256099942544/5354046379",
+      "NativeAd_Id": "ca-app-pub-xyz3940256099942544/2247696110",
+      "NativeAd_Id1": "ca-app-pub-xyz3940256099942544/2247696110",
+      "AppOpenAd_Id": "ca-app-pub-xyz3940256099942544/3419835294",
+      "VideoAd30_Id": "ca-app-pub-xyz3940256099942544/5224354917",
       
       "GamezopId": "https://u.theaddnews.com/zflaw/",
       "QurekaID": "https://u.theaddnews.com/zflaw/",
