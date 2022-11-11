@@ -1,0 +1,111 @@
+{
+  "data" :  {
+      "msg" : "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL",
+      "AD_Priority_Google/URL" : "URL",
+    
+      "Vpn_On_Off_Direct" : "on",  
+      "ghe2" : "aft_vpn_test",
+      "carrierId_ourVPN" : "gam_codemizevpn",
+    
+      "AppVersion_Update" : "1.1",  
+    
+      "AdsOnOff" : "on",  
+      "DialogBoxAds_OnOff" : "on",  
+      "DialogBox_InterAds_OnOff" : "on",  
+      "BannerAds_OnOff" : "on",  
+      "BackButtonAds_OnOff" : "on",  
+    
+      "Video30_and_InterAd" : "interAd",  
+    
+      "BASE64KEY" :           "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjiPKYdNkGHUZCmvVcuWFY2FQfKH/84qwfCU0ycqZn9vKBqamfvc0SuLWn/AGK0QtAhB+6PIJ5OrqRu7i8kmd7m37AvQ01sSa9tTLyVx7HCMbsLmFM5PwMlYtMIylDQVjYFMXCvdoR/nizQvGki9+O3Y0d3EjYbM1+QXDj54PrbMr/yHYH18foun01oC9in7EuBw0n1dD/j12VJDN/Jw79ff5Aqq9j1Ov05cGmF8TlS0W/NuCGn4c6NHd+91Vj2uFZCPt+1lzGSXem9iQBtiXv/4OOKwrZ4eu5TaJigoOIzfqMr1FHRU4s4Zytgl/UDuy+qPq3VbFxcQjPPsPfT7thQIDAQAB",
+      "PRODUCT_ID_YEAR" : "orbut_12_month",
+      "PRODUCT_ID_6MONTH" : "orbut_6_month",
+      "PRODUCT_ID_MONTH" : "orbut_1_month",
+    
+      "InterAd_Interval" : "3000",  
+      "VideoAd_Interval" : "3000", 
+      "Video30Ad_Interval" : "3000", 
+    
+      "TransferBox_OnOff" : "off",  
+      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
+    
+      "RecycleAds_Position" : "4", 
+    
+      "email" : "venturescope69@gmail.com",  
+      "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
+    
+      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
+      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
+      "Video_Ad_Id": "ca-app-pub-3940256099942544/5354046379",
+      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
+      "NativeAd_Id1": "ca-app-pub-3940256099942544/2247696110",
+      "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
+      "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
+      
+      "GamezopId": "https://u.theaddnews.com/zflaw/",
+      "QurekaID": "https://u.theaddnews.com/zflaw/",
+      "GamesKitesID": "https://u.theaddnews.com/zflaw/",
+      "PredchmpId": "https://u.theaddnews.com/zflaw/",
+      "AtmeId": "https://u.theaddnews.com/zflaw/",
+      
+      "ShowFirstDirect": "Gone",
+      "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/",
+      
+      "AppBanner": 
+      [
+        {
+          "BannerURL":"https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "BannerURL":"https://static.gamezop.com/creatives/afc577b1-1e65-4c27-acc6-8471d695635d.png",
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "BannerURL":"https://static.gamezop.com/creatives/dcd86387-294b-4007-a54b-f37bffb0fe16.png",
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "BannerURL":"https://static.gamezop.com/creatives/6e0ffea0-71bc-4bc0-85ea-85ccdcc28ccb.png",
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "BannerURL":"https://static.gamezop.com/creatives/711d836b-677d-4b9d-8873-ffce7cda85eb.png",
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
+        }
+      ],
+    
+    "Circle": 
+      [
+        {
+          "CircleLink": "https://static.gamezop.com/creatives/060d00fa-2638-4219-af1c-64bbd20339a1.png",
+          "CircleRedirectLink": "https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "CircleLink": "https://static.gamezop.com/creatives/a0cb179d-6100-4972-b7d2-9540556c3d2a.png",
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "CircleLink": "https://static.gamezop.com/creatives/6de0aff2-cb59-41dc-9278-631975ab5b14.gif",
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "CircleLink": "https://static.gamezop.com/creatives/66f06c6e-8f83-4819-9fcc-e00ce5d75be6.gif",
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
+        }
+        ,
+        {
+          "CircleLink": "https://static.gamezop.com/creatives/d1d66077-c354-4fdc-b611-6e54a6bd0ee3.png",
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "CircleLink": "https://static.gamezop.com/creatives/f9f4d346-cd9f-46e1-a3ce-b10bb20f3d29.png",
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
+        },
+        {
+          "CircleLink": "https://static.gamezop.com/creatives/dbd80ca5-7a76-4b35-90e8-d0cd5c94a636.png",
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
+        }
+      ]
+   }
+}
