@@ -9,7 +9,7 @@
     
       "AppVersion_Update" : "1.1",  
     
-      "AdsOnOff" : "on",  
+      "AdsOnOff" : "off",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "off",  
       "BannerAds_OnOff" : "on",  
