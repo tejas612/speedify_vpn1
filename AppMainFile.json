@@ -3,7 +3,10 @@
       "msg" : "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL",
       "AD_Priority_Google/URL" : "url",
     
+      "AD_Priority_Google_Applovin" : "applovin",
+    
       "Vpn_On_Off_Direct" : "on",  
+    
       "ghe2" : "aft_vpn_test",
       "carrierId_ourVPN" : "gam_codemizevpn",
     
@@ -42,6 +45,14 @@
       "AppOpenAd_Id": "ca-app-pub-xyz3940256099942544/3419835294",
       "VideoAd30_Id": "ca-app-pub-xyz3940256099942544/5224354917",
       
+      "BannerAd_Id_Applovin": "72bd40_TEJAs_e8dac1f2d1",
+      "MrecAd_Id_Applovin": "dadecb6_TEJAs_05416aa57",
+      "InterAd_Id_Applovin": "d28e6e8_TEJAs_7c75da6b5",
+      "NativeAd_Id_Small_Applovin": "a0a9a_TEJAs_c1ebcebb4ca",
+      "NativeAd_Id_Medium_Applovin": "a208_TEJAs_58c3c618e9c0",
+      "VideoAd_Id_Applovin": "25987_TEJAs_e8ecd1f1446",
+      "AppOpen_Id_Applovin": "a6ad35a_TEJAs_94d4be30f",
+    
       "GamezopId": "https://u.theaddnews.com/zflaw/",
       "QurekaID": "https://u.theaddnews.com/zflaw/",
       "GamesKitesID": "https://u.theaddnews.com/zflaw/",
