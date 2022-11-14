@@ -9,7 +9,7 @@
     
       "AppVersion_Update" : "1.1",  
     
-      "AdsOnOff" : "off",  
+      "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "off",  
       "BannerAds_OnOff" : "on",  
@@ -34,7 +34,7 @@
       "email" : "venturescope69@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-      "BannerAd_Id": "ca-app-pub-xyz3940256099942544/6300978111",
+      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
       "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
       "Video_Ad_Id": "ca-app-pub-xyz3940256099942544/5354046379",
       "NativeAd_Id": "ca-app-pub-xyz3940256099942544/2247696110",
