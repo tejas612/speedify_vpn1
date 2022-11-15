@@ -12,9 +12,9 @@
     
       "AppVersion_Update" : "2.4",  
     
-      "AdsOnOff" : "off",  
+      "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
-      "DialogBox_InterAds_OnOff" : "off",  
+      "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
@@ -32,7 +32,7 @@
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
     
-      "RecycleAds_Position" : "4", 
+      "RecycleAds_Position" : "6", 
     
       "email" : "venturescope69@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
